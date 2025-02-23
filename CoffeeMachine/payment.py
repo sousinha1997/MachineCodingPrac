@@ -6,4 +6,3 @@ class Payment:
         self.price = price
 
 
-payment = Payment(1000)
